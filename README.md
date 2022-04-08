@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Julio Ouverney.
 
 - 🔭 No momento estou procurando novas oportunidades
-- 🌱 Estou aprendendo Laravel (PHP) e Javascript
+- 🌱 Estou aprendendo Laravel (PHP), Shellscript e Docker
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
