@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Julio Ouverney.
 
-- 🔭 No momento estou procurando novas oportunidades
-- 🌱 Estou aprendendo Laravel (PHP), Shellscript e Docker
+- 🔭 No momento estou focado em estudar e amadurecer como profissional
+- 🌱 Estou aprimorando nas techs de DevOps como Shell Script, Docker, Pyhton e Aws
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
@@ -11,12 +11,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Jvlio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jvlio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jvlio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jvlio-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+    <img align="center" alt="Jvlio-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="Jvlio-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
   <img align="center" alt="Jvlio-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Jvlio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
+  <img align="center" alt="Jvlio-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"> 
+  <img align="center" alt="Jvlio-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
 
   ##
