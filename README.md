@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Julio Ouverney.
 
 - 🔭 No momento estou focado em estudar e amadurecer como profissional
-- 🌱 Estou aprimorando nas techs de DevOps como Shell Script, Docker, Pyhton e Aws
+- 🌱 Estou aprimorando nas techs de DevOps como Shell Script, Docker, Python e AWS
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block">
