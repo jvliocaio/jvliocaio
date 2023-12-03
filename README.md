@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Julio Ouverney.
 
-- 🔭 No momento estou focado em estudar e amadurecer como profissional
-- 🌱 Estou aprimorando nas techs de DevOps como Shell Script, Docker, Python e AWS
-- 😄 Pronomes: ele/dele
+- 🖥 DevOps [Shell Script, Docker, Python, AWS, Ansible, Linux]
+- 🌱 Desenvolvedor back-end [FastAPI, Django, Laravel]
 
 <div style="display: inline_block">
   <a href="https://github.com/jvliocaio">
