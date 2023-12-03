@@ -1,4 +1,7 @@
 ### Hey guys!
+I'm Julio Ouverney, I have two years of experience in DevOps. I'm currently studying backend with a focus on Python;
+
+##
 
 - 🖥 DevOps [Shell Script, Docker, Python, AWS, Ansible, Linux]
 - 🌱 Desenvolvedor back-end [FastAPI, Django, Laravel]
