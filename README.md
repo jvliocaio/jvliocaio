@@ -1,10 +1,10 @@
 ### Hey guys!
-I'm Julio Ouverney, I have two years of experience in DevOps. I'm currently studying backend with a focus on Python;
+I'm Julio Ouverney, I have three years of experience in DevOps. I'm currently studying backend with a focus on Python;
 
 ##
 
 - 🖥 DevOps [Shell Script, Docker, Python, AWS, Ansible, Linux]
-- 🌱 Desenvolvedor back-end [FastAPI, Django, Laravel]
+- 🌱 Back-end [Python, Go, PHP]
 
 <div style="display: inline_block">
   <a href="https://github.com/jvliocaio">
@@ -16,9 +16,11 @@ I'm Julio Ouverney, I have two years of experience in DevOps. I'm currently stud
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="FastAPI" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
-  <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
   <img align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"> 
+  <img align="center" alt="Golang" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"> 
+    
   
 
   ##
